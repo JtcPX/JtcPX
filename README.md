@@ -1,16 +1,15 @@
-### Hi there 👋
+## [Hi, Here !](https://wakatime.com/@JtcPX)
+- 一個喜歡編程的初中生
+- 啥都不會，但啥都想學
 
-<!--
-**JtcPX/JtcPX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [統計數據 | statistics](https://wakatime.com/@JtcPX)
+<div>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JtcPX&include_all_commits=true&theme=tokyonight&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JtcPX&theme=tokyonight&langs_count=6&layout=compact" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## [訪客統計](https://wakatime.com/@JtcPX)
+<img height="30" align="right" src="https://profile-counter.glitch.me/JtcPX/count.svg" />

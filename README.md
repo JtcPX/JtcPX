@@ -10,6 +10,7 @@
 </div>
 
 
-
+<!--
 ## [訪客統計](https://wakatime.com/@JtcPX)
 <img height="30" align="right" src="https://profile-counter.glitch.me/JtcPX/count.svg" />
+-->
